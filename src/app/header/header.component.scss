@@ -1,0 +1,22 @@
+.avatar {
+  object-fit: cover;
+  height: 2.5rem;
+  width: 2.5rem;
+  border: 1px solid #7181e2;
+  border-radius: 100%;
+  margin: 0 0.5rem;
+  background-color: #fff;
+}
+.text-top {
+  position: relative;
+  bottom: 15px;
+}
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.vl {
+  border-left: 1px solid #2437b0;
+  margin: 0 5px;
+  height: 20px;
+}
